@@ -69,5 +69,5 @@ Brigham Young University-Idaho, Rexburg, ID (September 2023 – June 2024)
 - **Microsoft Certification** - Server Virtualization with Windows Server Hyper-V and System Center (2014)  
 
 </div>
-
+<div></div>
 :::
