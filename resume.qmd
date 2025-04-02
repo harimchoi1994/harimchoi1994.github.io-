@@ -1,89 +1,73 @@
+
 ---
-layout: cv
-title: Isaac Newtons's CV
+format: html
+header-includes: |
+  <style>
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 20px;
+    }
+    .container {
+        max-width: 800px;
+        background: white;
+        padding: 20px;
+        margin: auto;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2 {
+        color: #2c3e50;
+        border-bottom: 2px solid #2c3e50;
+        padding-bottom: 5px;
+    }
+    .section {
+        margin-bottom: 20px;
+    }
+  </style>
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<div class="container">
 
+# Harim Choi  
+**Computer Science Student | Data Visualization Expert**
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+## Skills
+- **Software & Tools**: Power BI, DAX Studio, Hyper-V, VMWare, Microsoft Office, Adobe Photoshop/Illustrator  
+- **Programming Languages**: Python, HTML  
+- **Languages**: Fluent in Korean, Conversational in Japanese  
 
 ## Education
+**Bachelor of Science in Computer Science** (Expected 2026)  
+Brigham Young University-Idaho, Rexburg, ID  
 
-`1654-1660`
-__The King's School, Grantham.__
+**High School Diploma** (June 2013)  
+West Springfield High School  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Experience
+**Data Visualization Expert**  
+Brigham Young University-Idaho, Rexburg, ID (June 2024 – Present)  
+- Gather, clean, and analyze student data to identify trends in performance, enrollment, and retention.  
+- Design and maintain interactive Power BI dashboards and custom reports.  
+- Present complex data in clear, actionable visualizations.  
 
-- Sizar
+**Degree Verification Specialist**  
+Brigham Young University-Idaho, Rexburg, ID (September 2023 – June 2024)  
+- Process verification requests for BYU-Idaho and Pathway Worldwide.  
+- Ensure accurate academic records and collaborate with third-party organizations.  
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Projects
+- **Data Consistency Overview**: Developed a robust system to guarantee data consistency.  
+- **Graduation Ordering Emulation Program**: Designed a simulated system for graduation-related services.  
+- **Degree Application Interface**: Created an intuitive interface for the degree application process.  
 
-- Fellow
+## Awards & Certifications
+- **Scholastic Art & Writing Awards – Silver Key** (Fairfax County Public Schools, 2013)  
+- **Korea Aerospace Industries Association Certificate of Completion** (2014)  
+- **Microsoft Certification** - Server Virtualization with Windows Server Hyper-V and System Center (2014)  
 
+</div>
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+:::
