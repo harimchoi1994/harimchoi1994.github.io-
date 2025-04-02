@@ -1,6 +1,10 @@
-
 ---
-format: html
+title: "Data Science Resume"
+format: 
+  html:
+    keep-md: true
+    embed-resources: true
+    self-contained: true
 header-includes: |
   <style>
     body {
@@ -69,4 +73,3 @@ Brigham Young University-Idaho, Rexburg, ID (September 2023 – June 2024)
 - **Microsoft Certification** - Server Virtualization with Windows Server Hyper-V and System Center (2014)  
 
 </div>
-:::
