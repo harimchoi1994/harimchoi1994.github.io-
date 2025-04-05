@@ -1,5 +1,5 @@
 ---
-title: "  "
+title: "Harim Choi's Resume"
 format: 
   html:
     keep-md: true
@@ -37,7 +37,6 @@ header-includes:
 
 <div class="container">
 
-# Harim Choi`s Resume  
 **Computer Science Student | Data Visualization Expert**
 
 ## Skills
